@@ -2,10 +2,11 @@
 
 ## Approach
 
-1. Handle Ambiguity
-2. Define Core Objects
-3. Analyze Relationships
-4. Investigate Actions
+1. Clarify Requirements
+2. Define API of System
+3. Identify Key Objects
+4. Identify Relationships Between Objects
+5. Identify Operations Supported By Objects
 
 ## Design Patterns
 
